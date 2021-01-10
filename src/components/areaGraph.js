@@ -69,7 +69,7 @@ function AreaGraph(props) {
       };
     return (
         <div className="column">
-             <Card style={{width:"320px",height:" 200px"}}>
+             <Card style={{width:"310px",height:" 200px"}}>
                         <div className="">
                     
                             <ReactFC {...chartConfigs} />
